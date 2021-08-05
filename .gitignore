@@ -1,0 +1,11 @@
+periphey/node_modules
+migrator/node_modules
+interface/uniswap-interface/node_modules
+core/node_modules
+
+
+.idea
+periphey/.idea
+migrator/.idea
+interface/uniswap-interface/.idea
+core/.idea
